@@ -4,6 +4,7 @@ Take this short personality quiz and find your best match out of all the charact
 
 Built to practice Express, routing, and HTTP request handling.
 
+![home](app/images/home.png)
 ![app](app/images/app.gif)
 
 ## Getting Started
