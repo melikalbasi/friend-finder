@@ -1,21 +1,23 @@
 # Friend Finder
 
-Take this short personality quiz and find your truest match!
+Take this short personality quiz and find your best match out of all the characters from the tv show The Office!
+
+Built to practice Express, routing, and HTTP request handling.
+
+![app](app/images/app.gif)
 
 ## Getting Started
 
-Visit the deployed app [here](https://friend-finder-1223.herokuapp.com/), or run it locally through node by cloning down this repo and navigating to the directory in your terminal and entering the command 
+Visit the deployed app [here](https://friend-finder-1223.herokuapp.com/), or run it locally by cloning down this repo and navigating to the directory in your terminal and entering the command 
 ```
 node server.js
 ```
 
-## Installing
-
-Install dependencies by running 
+Then install all dependencies by running 
 ```
 npm i
 ```
-
+and you're ready to go!
 
 ## Built With
 
@@ -23,6 +25,11 @@ npm i
 * Bootstrap
 * [JavaScript]() - Programming language
 * [Node.js](https://nodejs.org/en/) - The backend JavaScript Framework
+
+## NPM Packages Used
+* [Express](https://www.npmjs.com/package/express)
+* [body-parser](https://www.npmjs.com/package/body-parser)
+* [path](https://www.npmjs.com/package/path)
 
 
 ## Authors
